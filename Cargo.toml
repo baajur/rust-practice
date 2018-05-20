@@ -1,0 +1,6 @@
+[package]
+name = "rust-practice"
+version = "0.1.0"
+authors = ["cwmoo740 <cwmoo740@gmail.com>"]
+
+[dependencies]
