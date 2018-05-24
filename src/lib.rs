@@ -1,2 +1,3 @@
-mod stock_picking;
-mod merge_sort;
+pub mod stock_picking;
+pub mod merge_sort;
+pub mod scheduling;
