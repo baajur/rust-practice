@@ -79,7 +79,7 @@ pub fn solve(pattern: &str, text: &str, alphabet: Option<&HashMap<char, usize>>)
 #[cfg(test)]
 mod tests {
     use std::collections::HashMap;
-    use super::{create_pattern_hash, is_anagram, solve};
+    use super::{create_pattern_hash, solve};
 
     #[test]
     fn test_create_pattern_hash() {
